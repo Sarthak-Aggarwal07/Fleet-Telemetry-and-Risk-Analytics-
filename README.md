@@ -40,6 +40,9 @@ To prevent map cluttering and overlapping coordinates, raw geospatial data was c
 ### Page 2: Fleet & Risk Analytics
 ![Fleet Analytics](Screenshots/fleet_risk_analytics.png)
 
+### Page 3: Supply Chain & Finance
+![Fleet Analytics](Screenshots/Supply Chain & Finance.png)
+
 ---
 
 ## 📝 How to Run This Project
